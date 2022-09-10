@@ -12,7 +12,8 @@ int main(void)
 {
 	char bet;
 
-	for (bet = 'a'; bet <= 'z'; bet++)
+	bet = 'a';
+	while (bet <= 'z')
 	{
 		if (bet == 'e' || bet == 'q')
 		{
@@ -20,10 +21,10 @@ int main(void)
 			continue;
 		}
 		putchar(bet);
+		bet++;
 	}
 	{
 		putchar('\n');
 	}
 	return (0);
-}	
-
+}
