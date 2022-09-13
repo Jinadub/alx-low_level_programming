@@ -12,11 +12,8 @@ int main(void)
 {
 	char d;
 
-	d = 'z';
-
-	while (d >= 'a')
+	for (d = 'z'; d >= 'a'; d--)
 		putchar(d);
-		d--;
 	{
 		putchar('\n');
 	}
