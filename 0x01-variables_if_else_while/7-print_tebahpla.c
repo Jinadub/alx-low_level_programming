@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * Description : program that prints lowercase alphabet in reverse
+ * Description: program that prints lowercase alphabet in reverse
  * Return: 0
  */
 
