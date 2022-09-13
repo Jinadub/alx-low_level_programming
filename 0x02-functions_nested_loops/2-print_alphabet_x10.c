@@ -12,7 +12,7 @@ void print_alphabet_x10(void)
 	{
 		char bet;
 
-		for (bet = 'a'; bet = 'z'; bet++)
+		for (bet = 'a'; bet <= 'z'; bet++)
 		{
 			_putchar(bet);
 		}
