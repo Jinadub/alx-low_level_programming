@@ -12,7 +12,7 @@ int main(void)
 {
 	int db;
 
-	for (db == '0'; db  <= = '9'; db++)
+	for (db == '0'; db  <= '9'; db++)
 		putchar(db);
 	putchar('\n');
 
