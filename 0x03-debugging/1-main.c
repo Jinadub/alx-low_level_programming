@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *  main - causes an infinite loop
+ *  main - causes an infinite loop to stop
  *  Return: 0
  */
 
